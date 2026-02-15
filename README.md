@@ -2,6 +2,8 @@
 
 **Project:** Analyzing the Effects of Smart Algae (Chlorophyta) Panels for Thermal Heat Index Reduction
 
+![Smart Algae Panel Wiring Diagram](./SmartAlgae.png)
+
 # **1\. System Overview**
 
 This system measures:  
